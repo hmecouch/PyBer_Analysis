@@ -14,3 +14,5 @@
   ### Line Chart
   The second visualization I made for this analysis was a multiple-line chart showing each city types fare totals for each week. 
   ![PyBer_fare_summary](https://user-images.githubusercontent.com/114922260/201266836-276bc0af-8df7-432b-a47a-d5c877fc9355.png)
+  Here we can get a glimpse of how the total fares correlate to the date. An interesting thing to notice in the chart is a big dip in the beginning of February and a   big spike towards the end of February for all three city types. 
+  
